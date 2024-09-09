@@ -1,1 +1,5 @@
 Aca definiremos nuestras configuraciones
+
+como configurar nuestro git con github
+ git config --global user.name "SolisMelany"
+ git config --global user.email "meel.solis@gmail.com"
