@@ -1,5 +1,7 @@
 # INSTALANDO EXTENSIONES
 
+
+
 ## 1) 
 Nombre: Peacock
 ID: johnpapa.vscode-peacock
